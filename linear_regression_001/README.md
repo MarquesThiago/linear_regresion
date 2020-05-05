@@ -1,0 +1,1 @@
+linear regression study, from the price of the house, using the scikit-learn library
